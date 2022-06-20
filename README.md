@@ -1,5 +1,5 @@
 # Insurance Claims Fraud Detection
-This project is a fraud classification of an “unbalanced” data set of car insurance claims. The insurance-claims.csv dataset consists of more than 10,000 claims, with only 100 fraudulent claims among all the claims. We carried out pre-processing of the dataset followed by 3 types of classifications: SMOTE, Autoencoder, SMOTE with Decision Tree to identify the best classification model. 
+This project is a fraud classification of an “unbalanced” data set of car insurance claims. The [insurance-claims.csv](https://github.com/ngyiling/Insurance-claims-fraud-detection/blob/main/Insurance_claims.csv) dataset consists of more than 10,000 claims, with only 100 fraudulent claims among all the claims. Pre-processing of the dataset followed by 3 types of classifications: SMOTE, Autoencoder, SMOTE with Decision Tree was carried out to identify the best classification model. 
 
 <br />
 
